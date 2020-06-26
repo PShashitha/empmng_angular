@@ -31,6 +31,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
             ng serve --open
             ```
      * Browser new window/tab will be opened with the Developed frontend
+     ** Click on "View Employees" link from top navigation bar.
 
 ## Development server
 
