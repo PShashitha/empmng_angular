@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ###### INCLUDES
 
-## Assumpsions
+## Assumptions
 
 ### Fake server at http://dummy.restapiexample.com/  is available, and all REST methods are working.
 ### Connected to an internet connection.
